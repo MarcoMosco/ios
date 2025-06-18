@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "295605640328",
+    "project_id": "mikai-9ca25",
+    "storage_bucket": "mikai-9ca25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295605640328:android:e0b9157a0bac6f5dcb133d",
+        "android_client_info": {
+          "package_name": "com.mikai.materialordersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy5SRbVDksn1Bdvu8_cUdFe10d3qy58jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
